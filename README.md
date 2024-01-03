@@ -1,5 +1,5 @@
 # Ealdor-Group
 ## Sales analysis of Ealdor Groups annual financial data for the year 2022/2023 utilizing Microsoft Excel and PowerBI
-## Problem Statement 
-1. Overall manufacturing cost
-![](
+## Aanalysis and Visualization
+Overall manufacturing cost, Revenue Trend, Total Profit, Units Sold, Revenue and Pofit Contribution for Sales Channel and Product
+![](https://github.com/JosephErhiwha/Ealdor-Group/blob/main/Dashboard.PNG)
