@@ -6,3 +6,6 @@ Overall manufacturing cost, Revenue Trend, Total Profit, Units Sold, Revenue and
 
 2022/2023 Tax outlook 
 ![](https://github.com/JosephErhiwha/Ealdor-Group/blob/main/Tax.PNG)
+
+Recommendations 
+![](https://github.com/JosephErhiwha/Ealdor-Group/blob/main/Recommendations.PNG)
