@@ -3,3 +3,6 @@
 ## Aanalysis and Visualization
 Overall manufacturing cost, Revenue Trend, Total Profit, Units Sold, Revenue and Pofit Contribution for Sales Channel and Product
 ![](https://github.com/JosephErhiwha/Ealdor-Group/blob/main/Dashboard.PNG)
+
+2022/2023 Tax outlook 
+![](https://github.com/JosephErhiwha/Ealdor-Group/blob/main/Tax.PNG)
