@@ -8,7 +8,7 @@ Overall manufacturing cost, Revenue Trend, Total Profit, Units Sold, Revenue and
 ![](https://github.com/JosephErhiwha/Ealdor-Group/blob/main/Tax.PNG)
 
 Trend and Profit 
-![](https://github.com/JosephErhiwha/Ealdor-Group/blob/main/View.PNG)
+![](https://github.com/JosephErhiwha/Ealdor-Group/blob/main/Trends%20and%20Profit.PNG)
 
 
 Analysis View 
